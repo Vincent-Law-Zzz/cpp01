@@ -1,9 +1,9 @@
 
-NAME = ex01
+NAME = ex
 
 STD = -std=c++98
 
-SOURCE_FILES =	main.cpp ZombieHorde.cpp Zombie.cpp
+SOURCE_FILES =	main.cpp Weapon.cpp HumanA.cpp HumanB.cpp 
 
 SRC = $(SOURCE_FILES)
 

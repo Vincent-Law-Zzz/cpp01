@@ -1,5 +1,5 @@
 
-NAME = zombie
+NAME = ex00
 
 STD = -std=c++98
 
