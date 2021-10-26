@@ -1,9 +1,9 @@
 
-NAME = ex
+NAME = karenFilter
 
 STD = -std=c++98
 
-SOURCE_FILES =	main.cpp
+SOURCE_FILES =	main.cpp Karen.cpp 
 
 SRC = $(SOURCE_FILES)
 
